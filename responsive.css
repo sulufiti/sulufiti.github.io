@@ -4,7 +4,7 @@
 
 
 /***********
-Two column layout
+two column layout
  ***********/
 
 #primary {
@@ -18,7 +18,7 @@ Two column layout
 }
 
 /***********
-Page: Portfolio;
+ pics page
  ***********/
 
 #gallery li {
@@ -31,7 +31,7 @@ Page: Portfolio;
 
 
 /***********
-Page: About;
+ about page
  ***********/
 
 .profile-photo {
@@ -43,7 +43,7 @@ Page: About;
 @media screen and (min-width: 660px) {
 
 /***********
-Header
+ header
  ***********/
 
 nav {

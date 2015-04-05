@@ -95,13 +95,13 @@ color: #ccc;
 }
 
 /*********************
-    Page Portfolio
+    pic page
  *********************/
 
 #gallery {
   margin: 0;
   padding: 0;
-  list-style:none;
+  list-style: none;
 }
 
 #gallery li {
@@ -122,7 +122,7 @@ color: #bdc3c7;
 
 
 /*********************
-    About Page
+    about Page
  *********************/
 
  .profile-photo {
@@ -135,7 +135,7 @@ color: #bdc3c7;
 
 
 /*********************
-    Contact Page
+    contact Page
  *********************/
 
 .contact-info {
@@ -168,7 +168,7 @@ font-size: 0.9em;
 
 
 /*********************
-    Colors
+    colors
  *********************/
 
 /* site body */
