@@ -1,6 +1,6 @@
-/***********
- General
- ***********/
+/*********************
+    General
+ *********************/
 
 body {
   font-family: 'Open Sans', sans-serif;
@@ -25,9 +25,9 @@ margin: 0 0 .1em 0;
 }
 
 
-/***********
-Heading
- ***********/
+/*********************
+    Heading
+ *********************/
 
 header {
   float: left;
@@ -49,9 +49,10 @@ h1 {
   line-height: .8em;
 }
 
-/***********
-Navigation
- ***********/
+/*********************
+    Navigation
+ *********************/
+
 nav {
   text-align: left;
   padding 10px 0;
@@ -75,9 +76,10 @@ nav a {
 
 
 
-/***********
-Footer
- ***********/
+/*********************
+    Footer
+ *********************/
+
 footer {
 font-size: .75em;
 text-align: center;
@@ -92,9 +94,9 @@ color: #ccc;
   margin: 0 5px;
 }
 
-/***********
-Page Portfolio
- ***********/
+/*********************
+    Page Portfolio
+ *********************/
 
 #gallery {
   margin: 0;
@@ -103,11 +105,11 @@ Page Portfolio
 }
 
 #gallery li {
-float: left;
-width: 45%;
-margin: 2.5%;
-background-color: #f5f5f5;
-color: #bdc3c7;
+  float: left;
+  width: 45%;
+  margin: 2.5%;
+  background-color: #f5f5f5;
+  color: #bdc3c7;
 }
 
 #gallery li a p {
@@ -119,9 +121,9 @@ color: #bdc3c7;
 
 
 
- /***********
-Page: about
- ***********/
+/*********************
+    About Page
+ *********************/
 
  .profile-photo {
   display: block;
@@ -132,9 +134,9 @@ Page: about
 
 
 
- /***********
-Page: contact
- ***********/
+/*********************
+    Contact Page
+ *********************/
 
 .contact-info {
 list-style: none;
@@ -142,6 +144,7 @@ padding: 0;
 max-width: 0;
 font-size: 0.9em;
 }
+
 .contact-info a {
   display: block;
   min-height: 20px;
@@ -164,9 +167,9 @@ font-size: 0.9em;
 
 
 
- /***********
-Colors
- ***********/
+/*********************
+    Colors
+ *********************/
 
 /* site body */
 body {
