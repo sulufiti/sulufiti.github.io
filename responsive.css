@@ -1,7 +1,5 @@
 @media screen and (min-width: 480px) {
 
-}
-
 
 /***********
 two column layout
@@ -22,13 +20,13 @@ two column layout
  ***********/
 
 #gallery li {
-  width: 28.3333%
+  width: 28.3333%;
 }
 
 #gallery li:nth-child(4n) {
   clear: left;
 }
-
+}
 
 /***********
  about page
@@ -55,7 +53,7 @@ text-align: right;
 width: 45%
 }
 
-logo {
+#logo {
 float:left;
 margin-left: 5%;
 text-align: left;
@@ -71,9 +69,9 @@ font-size: 0.825em;
 margin-bottom: 20px;
 }
 
-Header {
+header {
   border-bottom: 5px solid #0000;
   margin-bottom: 60px;
 }
 
-}
+
