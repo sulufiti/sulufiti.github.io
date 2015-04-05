@@ -102,7 +102,7 @@ Page Portfolio
   list-style:none;
 }
 
-gallery li {
+#gallery li {
 float: left;
 width: 45%;
 margin: 2.5%;
@@ -150,18 +150,16 @@ font-size: 0.9em;
   padding: 0 0 0 30px;
   margin: 0 0 10px;
 }
-
-
 .contact-info li.phone a {
-  background-image: url('~/downloads/img/phone.png');
+  background-image: url(downloads/img/phone.png');
 }
 
   .contact-info li.mail a {
-  background-image: url('~/downloads/img/mail.png');
+  background-image: url(/downloads/img/mail.png');
 }
 
 .contact-info li.twitter a {
-  background-image: url('~/downloads/img/twitter.png');
+  background-image: url(/downloads/img/twitter.png');
 }
 
 
