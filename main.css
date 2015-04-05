@@ -154,15 +154,15 @@ font-size: 0.9em;
   margin: 0 0 10px;
 }
 .contact-info li.phone a {
-  background-image: url('/downloads/img/phone.png');
+  background-image: url('downloads/img/phone.png');
 }
 
   .contact-info li.mail a {
-  background-image: url('/downloads/img/mail.png');
+  background-image: url('downloads/img/mail.png');
 }
 
 .contact-info li.twitter a {
-  background-image: url('/downloads/img/twitter.png');
+  background-image: url('downloads/img/twitter.png');
 }
 
 
