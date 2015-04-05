@@ -178,8 +178,8 @@ body {
 }
 
 header {
-  background-color: #fff;
-  border-color: #fff;
+  background-color: #eeeeee;
+  border-color: #FF69B4;
 }
 
 /* logo text */
@@ -189,7 +189,7 @@ h1, h2 {
 
 /* background on mobile devices*/
 nav {
-  background-color: #fff;
+  background-color: #eeeeee;
 }
 
 /* nav link */
