@@ -81,7 +81,7 @@ nav a {
  *********************/
 
 footer {
-font-size: .75em;
+font-size: 0.75em;
 text-align: center;
 clear: both;
 padding-top: 50px
@@ -114,8 +114,8 @@ color: #ccc;
 
 #gallery li a p {
 margin: 0;
-padding 0;
-font-size: .75em;
+padding 5%;
+font-size: 0.75em;
 color: #bdc3c7;
 }
 
