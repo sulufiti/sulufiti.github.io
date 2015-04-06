@@ -1,9 +1,9 @@
 @media screen and (min-width: 480px) {
 
 
-/***********
+/*******************
 two column layout
- ***********/
+ *******************/
 
 #primary {
   width: 50%;
@@ -14,10 +14,11 @@ two column layout
   width: 40%;
   float: right;
 }
+}
 
-/***********
+/*******************
  pics page
- ***********/
+ *******************/
 
 #gallery li {
   width: 28.3333%;
@@ -28,9 +29,9 @@ two column layout
 }
 }
 
-/***********
+/*******************
  about page
- ***********/
+ *******************/
 
 .profile-photo {
   float: left;
@@ -40,9 +41,9 @@ two column layout
 
 @media screen and (min-width: 660px) {
 
-/***********
+/*******************
  header
- ***********/
+ *******************/
 
 nav {
 background: none;
@@ -70,8 +71,8 @@ margin-bottom: 20px;
 }
 
 header {
-  border-bottom: 5px thick #FF69B4;
+  border-bottom: 5px solid #888;
   margin-bottom: 60px;
 }
-
+}
 
