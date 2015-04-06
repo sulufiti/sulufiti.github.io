@@ -27,7 +27,7 @@ two column layout
 #gallery li:nth-child(4n) {
   clear: left;
 }
-}
+
 
 /*******************
  about page
@@ -37,8 +37,7 @@ two column layout
   float: left;
   margin: 0 5% 80px 0;
 }
-
-
+}
 @media screen and (min-width: 660px) {
 
 /*******************
